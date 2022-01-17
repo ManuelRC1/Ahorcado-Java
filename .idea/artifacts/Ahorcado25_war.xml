@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Ahorcado25:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Ahorcado25</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Ahorcado25-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Ahorcado25:war exploded" />
+    </root>
+  </artifact>
+</component>
